@@ -47,16 +47,18 @@ The latter is actually a solid API.
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/bundgaard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/dbundgaard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/bundgaard"><img src="https://github-readme-stats.vercel.app/api?username=bundgaard&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bundgaard's GitHub stats" /></a><a
-                      href="http://www.github.com/bundgaard"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=bundgaard&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/bundgaard/soundbox01" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bundgaard&repo=soundbox01&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/bundgaard/maja" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bundgaard&repo=maja&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/bundgaard/control_panel" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bundgaard&repo=control_panel&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/bundgaard/js" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bundgaard&repo=js&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+### Socials
+
+
+<p align="left">
+
+    <a href="https://www.github.com/bundgaard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+
+    <a href="https://www.linkedin.com/in/dbundgaard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
+    
+### Badges<b>My GitHub Stats</b>
+<a
+    href="http://www.github.com/bundgaard"><img src="https://github-readme-stats.vercel.app/api?username=bundgaard&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bundgaard's GitHub stats" /></a><a href="http://www.github.com/bundgaard"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bundgaard&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/bundgaard/soundbox01" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bundgaard&repo=soundbox01&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/bundgaard/maja" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bundgaard&repo=maja&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/bundgaard/control_panel" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bundgaard&repo=control_panel&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/bundgaard/js" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bundgaard&repo=js&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=bundgaard&count_private=true&show_icons=true&hide_border=true&theme=dark&text_color=dfdfdf) -->
