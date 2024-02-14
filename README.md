@@ -21,13 +21,13 @@ Below I will list some that are more noteworthy of recognition.
     * News aggregator (Cloud, Go)
     * Blog (Cloud, Go)
     * Spotify playlist manager and share (Cloud/Bot, Go)
-    * Battle.Net library to connect to Blizzard BattleNet APIs for World of Warcraft, Diablo3 and Hearthstone (Go)
-    * Outback - Distributed single-point of entry for communicating from Discord to multiple bots and services (Go, NATS.io)
 * Cross compatible apps
     * Javascript interpreter in Go (System)
     * Lisp interpreter in Go (System)
     * Hubert - DNS Automation notifier (System)
     * Video downloader in Go
+    * Battle.Net library to connect to Blizzard BattleNet APIs for World of Warcraft, Diablo3 and Hearthstone (Go)
+    * Outback - Distributed single-point of entry for communicating from Discord to multiple bots and services (Go, NATS.io)
 
 * Reverse engineering
     * Sound applications and mixer applications.
@@ -35,6 +35,10 @@ Below I will list some that are more noteworthy of recognition.
     * Mobile applications
 
 * Minecraft hosting
+* Website hosting
+* Service hosting
+* Email hosting
+
 
 ## OPEN SOURCE CONTRIBUTOR
 * MSDN Documentation (Opensource)
