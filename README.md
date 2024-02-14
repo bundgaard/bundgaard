@@ -11,6 +11,8 @@ Below I will list some that are more noteworthy of recognition.
     * Soundbox (Windows, C++)
     * Bookmark manager (Windows, C++)
     * Pad02 - Notepad clone (Windows, C++)
+    * PictureViewer01 - A Image viewer that opens ZIP files and list their images using Windows Imaging Component (Windows, C++)
+    * ReleaseBot - Application that will push compiled projects to Discord, useful for Release Information in distributed groups. (Windows, C++)
 * Bots
     * Discord bot (Cloud, Go)
     * Diablo 3 Experience bot (Cloud, Go)
@@ -19,6 +21,8 @@ Below I will list some that are more noteworthy of recognition.
     * News aggregator (Cloud, Go)
     * Blog (Cloud, Go)
     * Spotify playlist manager and share (Cloud/Bot, Go)
+    * Battle.Net library to connect to Blizzard BattleNet APIs for World of Warcraft, Diablo3 and Hearthstone (Go)
+    * Outback - Distributed single-point of entry for communicating from Discord to multiple bots and services (Go, NATS.io)
 * Cross compatible apps
     * Javascript interpreter in Go (System)
     * Lisp interpreter in Go (System)
